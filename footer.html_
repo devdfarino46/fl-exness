@@ -1,0 +1,26 @@
+<footer class="footer">
+    <div class="footer__container">
+      <div class="footer__socials">
+        <a href="https://www.facebook.com/exness/" class="footer__social icon-facebook"></a>
+        <a href="https://twitter.com/exness" class="footer__social icon-twitter"></a>
+        <a href="https://www.instagram.com/exness/" class="footer__social icon-instagram"></a>
+        <a href="https://www.linkedin.com/company/exness/" class="footer__social icon-linkedin"></a>
+        <a href="https://www.youtube.com/user/EXNESSchannel" class="footer__social icon-youtube"></a>
+      </div>
+      <nav class="footer__menu">
+        <ul class="footer__menu-list">
+          <li class="footer__menu-item"><a
+              href="https://www.exness.com/cdn/media/docs/risk_disclosure_and_warning_notice.pdf"
+              class="footer__menu-link" rel="nofollow">Tiết lộ rủi ro</a></li>
+          <li class="footer__menu-item"><a
+              href="https://www.exness.com/cdn/media/docs/preventing_money_laundering.pdf" class="footer__menu-link"
+              rel="nofollow">Phòng ngừa Rửa tiền</a></li>
+          <li class="footer__menu-item"><a href="https://www.exness.com/cdn/media/docs/privacy_agreement.pdf"
+              class="footer__menu-link" rel="nofollow">Thỏa thuận Bảo mật</a></li>
+          <li class="footer__menu-item"><a href="https://get.exness.help" class="footer__menu-link"
+              rel="nofollow">Trung tâm Trợ giúp</a></li>
+        </ul>
+      </nav>
+      <div class="footer__copy">© 2023 Exness</div>
+    </div>
+  </footer>

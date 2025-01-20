@@ -1,0 +1,214 @@
+<header class="header">
+    <div class="header__container">
+        <button type="button" class="header__menu-btn icon-menu">
+            <span></span>
+        </button>
+        <a href="/" class="header__logo">
+            <img src="img/logo.svg" class="header__logo-pc" alt="full logo" />
+            <img src="img/logo-mobile.svg" class="header__logo-mobile" alt="full logo" />
+        </a>
+        <nav class="header__menu menu">
+            <ul class="menu__list">
+                <li class="menu__item">
+                    <button class="menu__btn">Bắt đầu</button>
+                    <nav class="menu__submenu submenu">
+                        <ul class="submenu__list">
+                            <li class="submenu__item">
+                                <a href="https://one.exness-track.com/boarding/sign-in/a/37q68t4bi7/?campaign=14564&track1=main"
+                                    class="submenu__link" rel="nofollow">Đăng nhập Exness</a>
+                            </li>
+                            <li class="submenu__item">
+                                <a href="https://one.exness-track.com/boarding/sign-up/a/37q68t4bi7/?campaign=14564&track1=main"
+                                    class="submenu__link" rel="nofollow">Đăng ký Exness</a>
+                            </li>
+                            <li class="submenu__item">
+                                <a href="https://one.exness-track.com/boarding/sign-up/a/37q68t4bi7/?campaign=14564&track1=main"
+                                    class="submenu__link" rel="nofollow">Xác minh tài khoản</a>
+                            </li>
+                            <li class="submenu__item">
+                                <a href="https://one.exness-track.com/boarding/sign-up/a/37q68t4bi7/?campaign=14564&track1=main"
+                                    class="submenu__link" rel="nofollow">Tài khoản Demo</a>
+                            </li>
+                            <li class="submenu__item">
+                                <a href="https://one.exness-track.com/boarding/sign-up/a/37q68t4bi7/?campaign=14564&track1=main"
+                                    class="submenu__link" rel="nofollow">Tài khoản Thực</a>
+                            </li>
+                        </ul>
+                    </nav>
+                </li>
+                <li class="menu__item">
+                    <button class="menu__btn">Tài khoản</button>
+                    <nav class="menu__submenu submenu">
+                        <ul class="submenu__list">
+                            <li class="submenu__item">
+                                <a href="https://www.exness.com/standard-accounts/" class="submenu__link"
+                                    rel="nofollow">Tài khoản
+                                    Tiêu chuẩn</a>
+                            </li>
+                            <li class="submenu__item">
+                                <a href="https://www.exness.com/pro-accounts/" class="submenu__link"
+                                    rel="nofollow">Tài khoản
+                                    Pro</a>
+                            </li>
+                            <li class="submenu__item">
+                                <a href="https://one.exness-track.com/boarding/sign-up/a/37q68t4bi7/?campaign=14564&track1=main"
+                                    class="submenu__link" rel="nofollow">Tài khoản Zero</a>
+                            </li>
+                            <li class="submenu__item">
+                                <a href="https://one.exness-track.com/boarding/sign-up/a/37q68t4bi7/?campaign=14564&track1=main"
+                                    class="submenu__link" rel="nofollow">Phân bổ chênh lệch thô</a>
+                            </li>
+                            <li class="submenu__item">
+                                <a href="https://one.exness-track.com/boarding/sign-up/a/37q68t4bi7/?campaign=14564&track1=main"
+                                    class="submenu__link" rel="nofollow">Tài khoản Thực</a>
+                            </li>
+                        </ul>
+                    </nav>
+                </li>
+                <li class="menu__item">
+                    <button class="menu__btn">Nền tảng</button>
+                    <nav class="menu__submenu submenu">
+                        <ul class="submenu__list">
+                            <li class="submenu__item">
+                                <a href="" class="submenu__link">Tải Nền tảng Giao dịch</a>
+                            </li>
+                            <li class="submenu__item">
+                                <a href="https://one.exness-track.com/boarding/sign-up/a/37q68t4bi7/?campaign=14564&track1=main"
+                                    class="submenu__link" rel="nofollow">Giao diện Web</a>
+                            </li>
+                            <li class="submenu__item">
+                                <a href="https://one.exness-track.com/a/37q68t4bi7/?campaign=14564&platform=mobile&track1=main"
+                                    class="submenu__link" rel="nofollow">Ứng dụng Di động</a>
+                            </li>
+                            <li class="submenu__item">
+                                <a href="https://one.exness-track.com/metatrader-4/a/37q68t4bi7/?campaign=14564&track1=main"
+                                    class="submenu__link" rel="nofollow">MetaTrader 4</a>
+                            </li>
+                            <li class="submenu__item">
+                                <a href="https://one.exness-track.com/metatrader-5/a/37q68t4bi7/?campaign=14564&track1=main"
+                                    class="submenu__link" rel="nofollow">MetaTrader 5</a>
+                            </li>
+                        </ul>
+                    </nav>
+                </li>
+                <li class="menu__item">
+                    <button class="menu__btn">Đánh giá</button>
+                    <nav class="menu__submenu submenu">
+                        <ul class="submenu__list">
+                            <li class="submenu__item">
+                                <a href="https://one.exness-track.com/a/37q68t4bi7/?campaign=14564&track1=main"
+                                    class="submenu__link" rel="nofollow">Về Nhà môi giới</a>
+                            </li>
+                            <li class="submenu__item">
+                                <a href="https://one.exness-track.com/deposits-and-withdrawals/a/37q68t4bi7/?campaign=14564&track1=main"
+                                    class="submenu__link" rel="nofollow">Hệ thống Thanh toán</a>
+                            </li>
+                            <li class="submenu__item">
+                                <a href="https://one.exness-track.com/deposits-and-withdrawals/a/37q68t4bi7/?campaign=14564&track1=main"
+                                    class="submenu__link" rel="nofollow">Ký quỹ tối thiểu</a>
+                            </li>
+                            <li class="submenu__item">
+                                <a href="https://www.exness.com/fees/" class="submenu__link"
+                                    rel="nofollow">Phí</a>
+                            </li>
+                        </ul>
+                    </nav>
+                </li>
+                <li class="menu__item">
+                    <button class="menu__btn">Pháp lý</button>
+                    <nav class="menu__submenu submenu">
+                        <ul class="submenu__list">
+                            <li class="submenu__item">
+                                <a href="https://www.exness.com/regulation/" class="submenu__link"
+                                    rel="nofollow">Quy định</a>
+                            </li>
+                            <li class="submenu__item">
+                                <a href="https://one.exness-track.com/financial-reports/a/37q68t4bi7/?campaign=14564&track1=main"
+                                    class="submenu__link" rel="nofollow">Báo cáo Tài chính</a>
+                            </li>
+                            <li class="submenu__item">
+                                <a href="https://www.exness.com/compensation-fund/" class="submenu__link"
+                                    rel="nofollow">Quỹ Bồi
+                                    thường</a>
+                            </li>
+                            <li class="submenu__item">
+                                <a href="https://www.exness.com/legal-documents/" class="submenu__link"
+                                    rel="nofollow">Tài liệu Pháp
+                                    lý</a>
+                            </li>
+                        </ul>
+                    </nav>
+                </li>
+                <li class="menu__item">
+                    <button class="menu__btn">Thêm</button>
+                    <nav class="menu__submenu submenu">
+                        <ul class="submenu__list">
+                            <li class="submenu__item">
+                                <a href="https://social-trading.exness.com/a/37q68t4bi7/?campaign=14564&track1=main"
+                                    class="submenu__link" rel="nofollow">Giao dịch Xã hội</a>
+                            </li>
+                            <li class="submenu__item">
+                                <a href="https://www.exness.com/link/partnership/" class="submenu__link"
+                                    rel="nofollow">Chương trình
+                                    Đối tác</a>
+                            </li>
+                            <li class="submenu__item">
+                                <a href="https://www.exness.com/link/help-center" class="submenu__link"
+                                    rel="nofollow">Trung tâm Trợ
+                                    giúp</a>
+                            </li>
+                        </ul>
+                    </nav>
+                </li>
+                <li class="menu__item">
+                    <button class="menu__btn">Công cụ</button>
+                    <nav class="menu__submenu submenu">
+                        <ul class="submenu__list">
+                            <li class="submenu__item">
+                                <a href="https://one.exness-track.com/forex/a/37q68t4bi7/?campaign=14564&track1=main"
+                                    class="submenu__link" rel="nofollow">Ngoại hối</a>
+                            </li>
+                            <li class="submenu__item">
+                                <a href="https://one.exness-track.com/metals/a/37q68t4bi7/?campaign=14564&track1=main"
+                                    class="submenu__link" rel="nofollow">Kim loại</a>
+                            </li>
+                            <li class="submenu__item">
+                                <a href="https://one.exness-track.com/crypto/a/37q68t4bi7/?campaign=14564&track1=main"
+                                    class="submenu__link" rel="nofollow">Crypto</a>
+                            </li>
+                            <li class="submenu__item">
+                                <a href="https://one.exness-track.com/energies/a/37q68t4bi7/?campaign=14564&track1=main"
+                                    class="submenu__link" rel="nofollow">Năng lượng</a>
+                            </li>
+                            <li class="submenu__item">
+                                <a href="https://one.exness-track.com/stocks/a/37q68t4bi7/?campaign=14564&track1=main"
+                                    class="submenu__link" rel="nofollow">Cổ phiếu</a>
+                            </li>
+                            <li class="submenu__item">
+                                <a href="https://one.exness-track.com/indices/a/37q68t4bi7/?campaign=14564&track1=main"
+                                    class="submenu__link" rel="nofollow">Chỉ số</a>
+                            </li>
+                        </ul>
+                    </nav>
+                </li>
+            </ul>
+        </nav>
+        <div class="header__actions">
+            <a href="https://one.exness-track.com/boarding/sign-up/a/37q68t4bi7/?campaign=14564&track1=main"
+                class="header__actions-btn btn btn-yellow" rel="nofollow">Đăng ký</a>
+            <a href="https://one.exness-track.com/boarding/sign-in/a/37q68t4bi7/?campaign=14564&track1=main"
+                class="header__actions-btn btn btn-yellow-border" rel="nofollow">Đăng nhập</a>
+        </div>
+        <a href="" class="header__lang">
+            <img src="img/flag.svg" alt="flag" />
+        </a>
+        <a href="/#contacts" class="header__phone">
+            <svg width="30" height="30" viewBox="0 0 30 30" fill="none" xmlns="http://www.w3.org/2000/svg">
+                <path
+                    d="M16.3857 30.0002C16.2648 29.9782 16.1494 29.9563 16.0285 29.9454C15.1878 29.8686 14.38 29.6549 13.5943 29.3644C12.2865 28.8767 11.0557 28.23 9.87428 27.4901C7.34666 25.9118 5.22566 23.9004 3.45083 21.5274C2.40682 20.1354 1.52764 18.6502 0.857276 17.0389C0.527587 16.2442 0.247351 15.4331 0.0989903 14.5782C-0.00541138 13.9863 -0.0383803 13.3944 0.0385472 12.797C0.12097 12.1832 0.373732 11.6407 0.813318 11.2022C1.41225 10.6048 2.01119 10.0075 2.61562 9.41559C2.80794 9.22377 3.02224 9.05936 3.275 8.95523C3.78602 8.73601 4.27506 8.78534 4.74212 9.0758C4.90696 9.17445 5.06082 9.3005 5.19269 9.43203C6.08835 10.3144 6.97851 11.2022 7.86867 12.09C7.99505 12.2161 8.11594 12.3531 8.22034 12.5011C8.65443 13.1204 8.63795 13.8 8.18188 14.4083C8.08847 14.5343 7.97857 14.6549 7.86318 14.7645C7.35766 15.2687 6.85213 15.7729 6.34111 16.2716C6.29166 16.3155 6.2477 16.3648 6.19825 16.4086C6.07187 16.5237 6.04439 16.6607 6.10483 16.8087C6.16528 16.9622 6.23671 17.1101 6.30814 17.2581C6.70377 18.0692 7.23127 18.7981 7.80823 19.4887C8.68191 20.5354 9.63801 21.5055 10.715 22.3495C11.4843 22.9578 12.314 23.4784 13.2096 23.884C13.3965 23.9717 13.5064 23.9552 13.6602 23.8073C13.7921 23.6812 13.9185 23.5497 14.0449 23.4236C14.5284 22.9468 15.0065 22.4591 15.501 21.9877C15.8362 21.6644 16.2428 21.4781 16.7208 21.4945C17.1384 21.5055 17.4846 21.6808 17.7923 21.9494C17.8528 21.9987 17.9077 22.0535 17.9627 22.1083C18.8583 22.9962 19.7595 23.884 20.6551 24.7773C20.8255 24.9417 20.9793 25.1171 21.0947 25.3253C21.3969 25.8734 21.3859 26.416 21.0508 26.9421C20.9409 27.1175 20.8035 27.2764 20.6551 27.4244C20.1111 27.9834 19.5562 28.5314 19.0012 29.0795C18.5341 29.5508 17.9682 29.8358 17.3088 29.9344C17.2044 29.9508 17.1055 29.9782 17.0066 30.0002C16.8033 30.0002 16.5945 30.0002 16.3857 30.0002Z" />
+                <path class="header__phone-info"
+                    d="M19.5506 5.1297C19.5451 5.97369 20.2375 6.67519 21.0837 6.68067C21.9354 6.68615 22.6332 6.00658 22.6387 5.15711C22.6442 4.27475 21.9738 3.5897 21.1002 3.58422C20.2375 3.58422 19.5561 4.25831 19.5506 5.1297ZM23.2486 13.7176C23.1717 13.6408 23.0728 13.6244 22.9739 13.6682C22.886 13.7066 22.7981 13.7669 22.7101 13.7998C22.4848 13.882 22.2596 13.9806 22.0233 14.03C21.7156 14.0957 21.5507 13.9587 21.4738 13.6573C21.4079 13.3833 21.4353 13.1092 21.4848 12.8407C21.6386 11.9858 21.798 11.1308 21.9518 10.2758C22.0672 9.65108 22.1771 9.02631 22.2815 8.40153C22.3145 8.19876 22.342 7.9905 22.3035 7.78224C22.2651 7.56851 22.1387 7.44245 21.9354 7.39313C21.8639 7.37669 21.7815 7.37121 21.7046 7.37121C21.2046 7.37121 20.699 7.37121 20.199 7.37121C19.699 7.37121 19.1934 7.37121 18.6934 7.37121C18.5835 7.37121 18.4736 7.38765 18.3692 7.40957C18.2044 7.44794 18.1055 7.5685 18.0945 7.71648C18.0835 7.88089 18.1604 8.01242 18.3253 8.07819C18.4297 8.11655 18.5341 8.13847 18.644 8.16039C18.7648 8.18232 18.8857 8.19328 19.0011 8.22068C19.2759 8.28644 19.3748 8.41249 19.3913 8.692C19.4077 8.9441 19.3473 9.17976 19.3033 9.4209C19.089 10.6814 18.8747 11.9419 18.6659 13.2079C18.6385 13.3833 18.611 13.5641 18.6165 13.745C18.622 14.4026 19.2869 15.1644 20.0616 15.2192C20.1495 15.2247 20.2375 15.2411 20.3254 15.2411C20.6551 15.2466 20.9903 15.2685 21.3144 15.2411C22.0123 15.1809 22.5838 14.8411 23.0783 14.3588C23.1827 14.2547 23.2596 14.1286 23.2981 13.9806C23.3365 13.8765 23.3256 13.7833 23.2486 13.7176ZM29.9963 9.55243C29.9963 14.8301 25.7048 19.1103 20.4133 19.1103C15.1218 19.1103 10.8303 14.8301 10.8303 9.55243C10.8303 4.27475 15.1218 0 20.4133 0C25.7048 0 29.9963 4.27475 29.9963 9.55243Z" />
+            </svg>
+        </a>
+    </div>
+</header>

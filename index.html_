@@ -1,0 +1,1081 @@
+<!DOCTYPE html>
+<html lang="VI">
+
+<head>
+  <title>Exness</title>
+  <meta charset="UTF-8" />
+  <meta name="format-detection" content="telephone=no" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="description" content="" />
+
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@9/swiper-bundle.min.css" />
+  <link rel="stylesheet" href="css/reset.min.css" />
+  <link rel="stylesheet" href="css/style.min.css" />
+  <link rel="shotcut icon" href="/exness-sq-ico.png" type="image/png">
+
+  <!-- Google tag (gtag.js) -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-71ZZY35HRP"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag() { dataLayer.push(arguments); }
+    gtag('js', new Date());
+
+    gtag('config', 'G-71ZZY35HRP');
+  </script>
+
+  <!-- Yandex.Metrika counter -->
+  <script type="text/javascript">
+    (function (m, e, t, r, i, k, a) {
+      m[i] = m[i] || function () { (m[i].a = m[i].a || []).push(arguments) };
+      m[i].l = 1 * new Date();
+      for (var j = 0; j < document.scripts.length; j++) { if (document.scripts[j].src === r) { return; } }
+      k = e.createElement(t), a = e.getElementsByTagName(t)[0], k.async = 1, k.src = r, a.parentNode.insertBefore(k, a)
+    })
+      (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+
+    ym(93260046, "init", {
+      clickmap: true,
+      trackLinks: true,
+      accurateTrackBounce: true,
+      webvisor: true
+    });
+  </script>
+  <noscript>
+    <div><img src="https://mc.yandex.ru/watch/93260046" style="position:absolute; left:-9999px;" alt="" /></div>
+  </noscript>
+  <!-- /Yandex.Metrika counter -->
+
+  <meta name="google-site-verification" content="DKIUdn3QFoJvyTbFOxEweJ6kduMSnbMDgB23TDTROa4" />
+
+</head>
+
+
+<body>
+  <div class="wrapper">
+    <header class="header">
+      <div class="header__container">
+        <button type="button" class="header__menu-btn icon-menu">
+          <span></span>
+        </button>
+        <a href="/" class="header__logo">
+          <img src="img/logo.svg" class="header__logo-pc" alt="full logo" />
+          <img src="img/logo-mobile.svg" class="header__logo-mobile" alt="full logo" />
+        </a>
+        <nav class="header__menu menu">
+          <ul class="menu__list">
+            <li class="menu__item">
+              <button class="menu__btn">Bắt đầu</button>
+              <nav class="menu__submenu submenu">
+                <ul class="submenu__list">
+                  <li class="submenu__item">
+                    <a href="https://one.exness-track.com/boarding/sign-in/a/37q68t4bi7/?campaign=14564&track1=main"
+                      class="submenu__link" rel="nofollow">Đăng nhập Exness</a>
+                  </li>
+                  <li class="submenu__item">
+                    <a href="https://one.exness-track.com/boarding/sign-up/a/37q68t4bi7/?campaign=14564&track1=main"
+                      class="submenu__link" rel="nofollow">Đăng ký Exness</a>
+                  </li>
+                  <li class="submenu__item">
+                    <a href="https://one.exness-track.com/boarding/sign-up/a/37q68t4bi7/?campaign=14564&track1=main"
+                      class="submenu__link" rel="nofollow">Xác minh tài khoản</a>
+                  </li>
+                  <li class="submenu__item">
+                    <a href="https://one.exness-track.com/boarding/sign-up/a/37q68t4bi7/?campaign=14564&track1=main"
+                      class="submenu__link" rel="nofollow">Tài khoản Demo</a>
+                  </li>
+                  <li class="submenu__item">
+                    <a href="https://one.exness-track.com/boarding/sign-up/a/37q68t4bi7/?campaign=14564&track1=main"
+                      class="submenu__link" rel="nofollow">Tài khoản Thực</a>
+                  </li>
+                </ul>
+              </nav>
+            </li>
+            <li class="menu__item">
+              <button class="menu__btn">Tài khoản</button>
+              <nav class="menu__submenu submenu">
+                <ul class="submenu__list">
+                  <li class="submenu__item">
+                    <a href="https://www.exness.com/standard-accounts/" class="submenu__link" rel="nofollow">Tài khoản
+                      Tiêu chuẩn</a>
+                  </li>
+                  <li class="submenu__item">
+                    <a href="https://www.exness.com/pro-accounts/" class="submenu__link" rel="nofollow">Tài khoản
+                      Pro</a>
+                  </li>
+                  <li class="submenu__item">
+                    <a href="https://one.exness-track.com/boarding/sign-up/a/37q68t4bi7/?campaign=14564&track1=main"
+                      class="submenu__link" rel="nofollow">Tài khoản Zero</a>
+                  </li>
+                  <li class="submenu__item">
+                    <a href="https://one.exness-track.com/boarding/sign-up/a/37q68t4bi7/?campaign=14564&track1=main"
+                      class="submenu__link" rel="nofollow">Phân bổ chênh lệch thô</a>
+                  </li>
+                  <li class="submenu__item">
+                    <a href="https://one.exness-track.com/boarding/sign-up/a/37q68t4bi7/?campaign=14564&track1=main"
+                      class="submenu__link" rel="nofollow">Tài khoản Thực</a>
+                  </li>
+                </ul>
+              </nav>
+            </li>
+            <li class="menu__item">
+              <button class="menu__btn">Nền tảng</button>
+              <nav class="menu__submenu submenu">
+                <ul class="submenu__list">
+                  <li class="submenu__item">
+                    <a href="" class="submenu__link">Tải Nền tảng Giao dịch</a>
+                  </li>
+                  <li class="submenu__item">
+                    <a href="https://one.exness-track.com/boarding/sign-up/a/37q68t4bi7/?campaign=14564&track1=main"
+                      class="submenu__link" rel="nofollow">Giao diện Web</a>
+                  </li>
+                  <li class="submenu__item">
+                    <a href="https://one.exness-track.com/a/37q68t4bi7/?campaign=14564&platform=mobile&track1=main"
+                      class="submenu__link" rel="nofollow">Ứng dụng Di động</a>
+                  </li>
+                  <li class="submenu__item">
+                    <a href="https://one.exness-track.com/metatrader-4/a/37q68t4bi7/?campaign=14564&track1=main"
+                      class="submenu__link" rel="nofollow">MetaTrader 4</a>
+                  </li>
+                  <li class="submenu__item">
+                    <a href="https://one.exness-track.com/metatrader-5/a/37q68t4bi7/?campaign=14564&track1=main"
+                      class="submenu__link" rel="nofollow">MetaTrader 5</a>
+                  </li>
+                </ul>
+              </nav>
+            </li>
+            <li class="menu__item">
+              <button class="menu__btn">Đánh giá</button>
+              <nav class="menu__submenu submenu">
+                <ul class="submenu__list">
+                  <li class="submenu__item">
+                    <a href="https://one.exness-track.com/a/37q68t4bi7/?campaign=14564&track1=main"
+                      class="submenu__link" rel="nofollow">Về Nhà môi giới</a>
+                  </li>
+                  <li class="submenu__item">
+                    <a href="https://one.exness-track.com/deposits-and-withdrawals/a/37q68t4bi7/?campaign=14564&track1=main"
+                      class="submenu__link" rel="nofollow">Hệ thống Thanh toán</a>
+                  </li>
+                  <li class="submenu__item">
+                    <a href="https://one.exness-track.com/deposits-and-withdrawals/a/37q68t4bi7/?campaign=14564&track1=main"
+                      class="submenu__link" rel="nofollow">Ký quỹ tối thiểu</a>
+                  </li>
+                  <li class="submenu__item">
+                    <a href="https://www.exness.com/fees/" class="submenu__link" rel="nofollow">Phí</a>
+                  </li>
+                </ul>
+              </nav>
+            </li>
+            <li class="menu__item">
+              <button class="menu__btn">Pháp lý</button>
+              <nav class="menu__submenu submenu">
+                <ul class="submenu__list">
+                  <li class="submenu__item">
+                    <a href="https://www.exness.com/regulation/" class="submenu__link" rel="nofollow">Quy định</a>
+                  </li>
+                  <li class="submenu__item">
+                    <a href="https://one.exness-track.com/financial-reports/a/37q68t4bi7/?campaign=14564&track1=main"
+                      class="submenu__link" rel="nofollow">Báo cáo Tài chính</a>
+                  </li>
+                  <li class="submenu__item">
+                    <a href="https://www.exness.com/compensation-fund/" class="submenu__link" rel="nofollow">Quỹ Bồi
+                      thường</a>
+                  </li>
+                  <li class="submenu__item">
+                    <a href="https://www.exness.com/legal-documents/" class="submenu__link" rel="nofollow">Tài liệu Pháp
+                      lý</a>
+                  </li>
+                </ul>
+              </nav>
+            </li>
+            <li class="menu__item">
+              <button class="menu__btn">Thêm</button>
+              <nav class="menu__submenu submenu">
+                <ul class="submenu__list">
+                  <li class="submenu__item">
+                    <a href="https://social-trading.exness.com/a/37q68t4bi7/?campaign=14564&track1=main"
+                      class="submenu__link" rel="nofollow">Giao dịch Xã hội</a>
+                  </li>
+                  <li class="submenu__item">
+                    <a href="https://www.exness.com/link/partnership/" class="submenu__link" rel="nofollow">Chương trình
+                      Đối tác</a>
+                  </li>
+                  <li class="submenu__item">
+                    <a href="https://www.exness.com/link/help-center" class="submenu__link" rel="nofollow">Trung tâm Trợ
+                      giúp</a>
+                  </li>
+                </ul>
+              </nav>
+            </li>
+            <li class="menu__item">
+              <button class="menu__btn">Công cụ</button>
+              <nav class="menu__submenu submenu">
+                <ul class="submenu__list">
+                  <li class="submenu__item">
+                    <a href="https://one.exness-track.com/forex/a/37q68t4bi7/?campaign=14564&track1=main"
+                      class="submenu__link" rel="nofollow">Ngoại hối</a>
+                  </li>
+                  <li class="submenu__item">
+                    <a href="https://one.exness-track.com/metals/a/37q68t4bi7/?campaign=14564&track1=main"
+                      class="submenu__link" rel="nofollow">Kim loại</a>
+                  </li>
+                  <li class="submenu__item">
+                    <a href="https://one.exness-track.com/crypto/a/37q68t4bi7/?campaign=14564&track1=main"
+                      class="submenu__link" rel="nofollow">Crypto</a>
+                  </li>
+                  <li class="submenu__item">
+                    <a href="https://one.exness-track.com/energies/a/37q68t4bi7/?campaign=14564&track1=main"
+                      class="submenu__link" rel="nofollow">Năng lượng</a>
+                  </li>
+                  <li class="submenu__item">
+                    <a href="https://one.exness-track.com/stocks/a/37q68t4bi7/?campaign=14564&track1=main"
+                      class="submenu__link" rel="nofollow">Cổ phiếu</a>
+                  </li>
+                  <li class="submenu__item">
+                    <a href="https://one.exness-track.com/indices/a/37q68t4bi7/?campaign=14564&track1=main"
+                      class="submenu__link" rel="nofollow">Chỉ số</a>
+                  </li>
+                </ul>
+              </nav>
+            </li>
+          </ul>
+        </nav>
+        <div class="header__actions">
+          <a href="https://one.exness-track.com/boarding/sign-up/a/37q68t4bi7/?campaign=14564&track1=main"
+            class="header__actions-btn btn btn-yellow" rel="nofollow">Đăng ký</a>
+          <a href="https://one.exness-track.com/boarding/sign-in/a/37q68t4bi7/?campaign=14564&track1=main"
+            class="header__actions-btn btn btn-yellow-border" rel="nofollow">Đăng nhập</a>
+        </div>
+        <a href="" class="header__lang">
+          <img src="img/flag.svg" alt="flag" />
+        </a>
+        <a href="/#contacts" class="header__phone">
+          <svg width="30" height="30" viewBox="0 0 30 30" fill="none" xmlns="http://www.w3.org/2000/svg">
+            <path
+              d="M16.3857 30.0002C16.2648 29.9782 16.1494 29.9563 16.0285 29.9454C15.1878 29.8686 14.38 29.6549 13.5943 29.3644C12.2865 28.8767 11.0557 28.23 9.87428 27.4901C7.34666 25.9118 5.22566 23.9004 3.45083 21.5274C2.40682 20.1354 1.52764 18.6502 0.857276 17.0389C0.527587 16.2442 0.247351 15.4331 0.0989903 14.5782C-0.00541138 13.9863 -0.0383803 13.3944 0.0385472 12.797C0.12097 12.1832 0.373732 11.6407 0.813318 11.2022C1.41225 10.6048 2.01119 10.0075 2.61562 9.41559C2.80794 9.22377 3.02224 9.05936 3.275 8.95523C3.78602 8.73601 4.27506 8.78534 4.74212 9.0758C4.90696 9.17445 5.06082 9.3005 5.19269 9.43203C6.08835 10.3144 6.97851 11.2022 7.86867 12.09C7.99505 12.2161 8.11594 12.3531 8.22034 12.5011C8.65443 13.1204 8.63795 13.8 8.18188 14.4083C8.08847 14.5343 7.97857 14.6549 7.86318 14.7645C7.35766 15.2687 6.85213 15.7729 6.34111 16.2716C6.29166 16.3155 6.2477 16.3648 6.19825 16.4086C6.07187 16.5237 6.04439 16.6607 6.10483 16.8087C6.16528 16.9622 6.23671 17.1101 6.30814 17.2581C6.70377 18.0692 7.23127 18.7981 7.80823 19.4887C8.68191 20.5354 9.63801 21.5055 10.715 22.3495C11.4843 22.9578 12.314 23.4784 13.2096 23.884C13.3965 23.9717 13.5064 23.9552 13.6602 23.8073C13.7921 23.6812 13.9185 23.5497 14.0449 23.4236C14.5284 22.9468 15.0065 22.4591 15.501 21.9877C15.8362 21.6644 16.2428 21.4781 16.7208 21.4945C17.1384 21.5055 17.4846 21.6808 17.7923 21.9494C17.8528 21.9987 17.9077 22.0535 17.9627 22.1083C18.8583 22.9962 19.7595 23.884 20.6551 24.7773C20.8255 24.9417 20.9793 25.1171 21.0947 25.3253C21.3969 25.8734 21.3859 26.416 21.0508 26.9421C20.9409 27.1175 20.8035 27.2764 20.6551 27.4244C20.1111 27.9834 19.5562 28.5314 19.0012 29.0795C18.5341 29.5508 17.9682 29.8358 17.3088 29.9344C17.2044 29.9508 17.1055 29.9782 17.0066 30.0002C16.8033 30.0002 16.5945 30.0002 16.3857 30.0002Z" />
+            <path class="header__phone-info"
+              d="M19.5506 5.1297C19.5451 5.97369 20.2375 6.67519 21.0837 6.68067C21.9354 6.68615 22.6332 6.00658 22.6387 5.15711C22.6442 4.27475 21.9738 3.5897 21.1002 3.58422C20.2375 3.58422 19.5561 4.25831 19.5506 5.1297ZM23.2486 13.7176C23.1717 13.6408 23.0728 13.6244 22.9739 13.6682C22.886 13.7066 22.7981 13.7669 22.7101 13.7998C22.4848 13.882 22.2596 13.9806 22.0233 14.03C21.7156 14.0957 21.5507 13.9587 21.4738 13.6573C21.4079 13.3833 21.4353 13.1092 21.4848 12.8407C21.6386 11.9858 21.798 11.1308 21.9518 10.2758C22.0672 9.65108 22.1771 9.02631 22.2815 8.40153C22.3145 8.19876 22.342 7.9905 22.3035 7.78224C22.2651 7.56851 22.1387 7.44245 21.9354 7.39313C21.8639 7.37669 21.7815 7.37121 21.7046 7.37121C21.2046 7.37121 20.699 7.37121 20.199 7.37121C19.699 7.37121 19.1934 7.37121 18.6934 7.37121C18.5835 7.37121 18.4736 7.38765 18.3692 7.40957C18.2044 7.44794 18.1055 7.5685 18.0945 7.71648C18.0835 7.88089 18.1604 8.01242 18.3253 8.07819C18.4297 8.11655 18.5341 8.13847 18.644 8.16039C18.7648 8.18232 18.8857 8.19328 19.0011 8.22068C19.2759 8.28644 19.3748 8.41249 19.3913 8.692C19.4077 8.9441 19.3473 9.17976 19.3033 9.4209C19.089 10.6814 18.8747 11.9419 18.6659 13.2079C18.6385 13.3833 18.611 13.5641 18.6165 13.745C18.622 14.4026 19.2869 15.1644 20.0616 15.2192C20.1495 15.2247 20.2375 15.2411 20.3254 15.2411C20.6551 15.2466 20.9903 15.2685 21.3144 15.2411C22.0123 15.1809 22.5838 14.8411 23.0783 14.3588C23.1827 14.2547 23.2596 14.1286 23.2981 13.9806C23.3365 13.8765 23.3256 13.7833 23.2486 13.7176ZM29.9963 9.55243C29.9963 14.8301 25.7048 19.1103 20.4133 19.1103C15.1218 19.1103 10.8303 14.8301 10.8303 9.55243C10.8303 4.27475 15.1218 0 20.4133 0C25.7048 0 29.9963 4.27475 29.9963 9.55243Z" />
+          </svg>
+        </a>
+      </div>
+    </header>
+
+    <main class="page">
+      <section class="main">
+        <div class="main__container">
+          <div class="main__body">
+            <div class="main__offer">
+              <h1 class="main__title">
+                <span>Exness tại Việt Nam:</span> Đăng ký và Bắt đầu Giao dịch
+              </h1>
+              <p class="main__subtitle">Giao dịch trên nhiều thị trường với mức giá ổn định và đáng tin cậy nhất trong
+                ngành.</p>
+              <div class="main__actions">
+                <a href="https://one.exness-track.com/a/37q68t4bi7/?campaign=14564&track1=main"
+                  class="main__actions-btn btn btn-yellow btn-lg" rel="nofollow">Exness Việt Nam</a>
+                <div class="main__actions-stores">
+                  <a href="https://one.exness-track.com/a/37q68t4bi7/?campaign=14564&platform=mobile&os=android&track1=main"
+                    class="main__actions-store" rel="nofollow">
+                    <img src="img/google-play.png" alt="google play" />
+                  </a>
+                  <a href="https://one.exness-track.com/a/37q68t4bi7/?campaign=14564&platform=mobile&os=ios&track1=main"
+                    class="main__actions-store" rel="nofollow">
+                    <img src="img/app-store.png" alt="app store" />
+                  </a>
+                </div>
+              </div>
+            </div>
+            <div class="main__image">
+              <img src="img/main-img.png" alt="platforms" />
+            </div>
+          </div>
+          <div class="main__benefits">
+            <div class="main__benefit">
+              <div class="main__benefit-icon">
+                <img src="img/main-benefits/01.png" alt="icon" />
+              </div>
+              <div class="main__benefit-text">
+                Thực thi
+                <br />
+                nhanh chóng
+              </div>
+            </div>
+            <div class="main__benefit">
+              <div class="main__benefit-icon">
+                <img src="img/main-benefits/02.png" alt="icon" />
+              </div>
+              <div class="main__benefit-text">
+                Chênh lệch
+                <br />
+                ổn định
+              </div>
+            </div>
+            <div class="main__benefit">
+              <div class="main__benefit-icon">
+                <img src="img/main-benefits/03.png" alt="icon" />
+              </div>
+              <div class="main__benefit-text">
+                Rút tiền
+                <br />
+                tức thì
+              </div>
+            </div>
+            <div class="main__benefit">
+              <div class="main__benefit-icon">
+                <img src="img/main-benefits/04.png" alt="icon" />
+              </div>
+              <div class="main__benefit-text">
+                Hoa hồng
+                <br />
+                không
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+      <section class="numbers">
+        <div class="numbers__container">
+          <h2 class="numbers__title title">
+            <span>Exness</span> theo số liệu
+          </h2>
+          <div class="numbers__items">
+            <div class="numbers__item">
+              <div class="numbers__item-caption">bắt đầu từ năm 2020</div>
+              <div class="numbers__item-value">1.8M+</div>
+              <div class="numbers__item-text">người trên toàn thế giới đã đăng ký với Exness</div>
+            </div>
+            <div class="numbers__item">
+              <div class="numbers__item-caption">Exness phục vụ trung bình</div>
+              <div class="numbers__item-value">470 tỷ+</div>
+              <div class="numbers__item-text">khối lượng giao dịch mỗi tháng</div>
+            </div>
+            <div class="numbers__item">
+              <div class="numbers__item-caption">hơn</div>
+              <div class="numbers__item-value">2,2 tỷ</div>
+              <div class="numbers__item-text">đã được rút bởi khách hàng Exness</div>
+            </div>
+          </div>
+        </div>
+      </section>
+      <section class="platforms">
+        <div class="platforms__container">
+          <h2 class="platforms__title title">
+            <span>Nền tảng Giao dịch</span> Exness
+          </h2>
+          <div class="platforms__tabs tabs" data-tabs>
+            <div class="tabs__buttons">
+              <button class="tabs__button" data-tab-button>
+                <span class="pc-text">Ứng dụng Di động</span>
+                <span class="mobile-text">Apk</span>
+              </button>
+              <button class="tabs__button" data-tab-button>
+                <span class="pc-text">Giao diện Web</span>
+                <span class="mobile-text">Web</span>
+              </button>
+              <button class="tabs__button" data-tab-button>
+                <span class="pc-text">MetaTrader 4</span>
+                <span class="mobile-text">MT4</span>
+              </button>
+              <button class="tabs__button" data-tab-button>
+                <span class="pc-text">MetaTrader 5</span>
+                <span class="mobile-text">MT5</span>
+              </button>
+            </div>
+            <div class="tabs__content">
+              <div class="tabs__content-item" data-tab-content>
+                <div class="platforms__item platform">
+                  <div class="platform__body">
+                    <div class="platform__info">
+                      <h3 class="platform__title">Ứng dụng Di động Exness</h3>
+                      <p class="platform__subtitle">Với 144 tài sản sẵn có, bạn có thể giao dịch thành công ở bất cứ
+                        đâu.</p>
+                      <p class="platform__desc">
+                        Exness cung cấp ứng dụng giao dịch tinh vi với tin tức thị trường, tín hiệu giao dịch, cảnh báo
+                        giá, thông báo Margin call và nhiều tính năng khác.
+                      </p>
+                    </div>
+                    <div class="platform__image">
+                      <img src="img/platforms/exness-trader-app.gif" alt="trader app" />
+                    </div>
+                  </div>
+                  <div class="platform__footer">
+                    <div class="platform__footer-btns">
+                      <a href="https://one.exness-track.com/a/37q68t4bi7/?campaign=14564&platform=mobile&track1=main"
+                        class="platform__footer-btn btn btn-yellow btn-lg" rel="nofollow">Tải Exness APK</a>
+                      <a href="https://one.exness-track.com/a/37q68t4bi7/?campaign=14564&platform=mobile&track1=main"
+                        class="platform__footer-btn btn btn-white-border btn-lg" rel="nofollow">Thêm về Ứng dụng Di
+                        động</a>
+                    </div>
+                    <div class="platform__footer-stores">
+                      <a href="https://one.exness-track.com/a/37q68t4bi7/?campaign=14564&platform=mobile&os=android&track1=main"
+                        class="platform__footer-store" rel="nofollow">
+                        <img src="img/google-play.png" alt="google play" />
+                      </a>
+                      <a href="https://one.exness-track.com/a/37q68t4bi7/?campaign=14564&platform=mobile&os=ios&track1=main"
+                        class="platform__footer-store" rel="nofollow">
+                        <img src="img/app-store.png" alt="app store" />
+                      </a>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div class="tabs__content-item" data-tab-content>
+                <div class="platforms__item platform">
+                  <div class="platform__body">
+                    <div class="platform__info">
+                      <h3 class="platform__title">Giao diện Web Exness</h3>
+                      <p class="platform__subtitle">
+                        Exness cung cấp chức năng giao dịch nhanh chóng và đơn giản nhưng với tính năng hạn chế. Bạn
+                        không cần cài đặt phần mềm bổ sung để bắt đầu giao dịch.
+                      </p>
+                      <p class="platform__desc">
+                        Nền tảng web tiên tiến của Exness được xây dựng để đáp ứng nhu cầu của những nhà giao dịch khó
+                        tính nhất, được bổ sung bởi hỗ trợ trò chuyện trực tiếp và lịch sử giao dịch chi tiết.
+                      </p>
+                    </div>
+                    <div class="platform__image">
+                      <img src="img/platforms/exness-web-terminal.jpg" alt="web terminal" />
+                    </div>
+                  </div>
+                  <div class="platform__footer">
+                    <a href="https://one.exness-track.com/boarding/sign-up/a/37q68t4bi7/?campaign=14564&track1=main"
+                      class="platform__footer-btn btn btn-yellow btn-lg" rel="nofollow">Tải Exness Web</a>
+                    <a href="https://one.exness-track.com/boarding/sign-up/a/37q68t4bi7/?campaign=14564&track1=main"
+                      class="platform__footer-btn btn btn-yellow-border btn-lg" rel="nofollow">Thêm về Giao diện Web</a>
+                  </div>
+                </div>
+              </div>
+              <div class="tabs__content-item" data-tab-content>
+                <div class="platforms__item platform">
+                  <div class="platform__body">
+                    <div class="platform__info">
+                      <h3 class="platform__title">Exness MetaTrader 4</h3>
+                      <p class="platform__subtitle">
+                        <a href="" class="platform__subtitle-meta">
+                          <img src="img/platforms/mt4-icon.png" alt="mt4" />
+                        </a>
+                        Ngày nay, MetaTrader 4 không còn nghi ngờ là tiêu chuẩn ngành trong giao dịch ngoại hối trực
+                        tuyến.
+                      </p>
+                      <p class="platform__desc">
+                        MetaTrader 4 là nền tảng giao dịch phổ biến nhất thế giới với chức năng giám sát thị trường,
+                        khung thời gian nhiều và tính năng biểu đồ nâng cao.
+                      </p>
+                    </div>
+                    <div class="platform__image">
+                      <img src="img/platforms/exness-mt4.jpg" alt="mt4 terminal" />
+                    </div>
+                  </div>
+                  <div class="platform__footer">
+                    <a href="https://one.exness-track.com/metatrader-4/a/37q68t4bi7/?campaign=14564&track1=main"
+                      class="platform__footer-btn btn btn-yellow btn-lg" rel="nofollow">Tải Exness MT4</a>
+                    <a href="https://one.exness-track.com/metatrader-4/a/37q68t4bi7/?campaign=14564&track1=main"
+                      class="platform__footer-btn btn btn-yellow-border btn-lg" rel="nofollow">Thêm về MetaTrader 4</a>
+                  </div>
+                </div>
+              </div>
+              <div class="tabs__content-item" data-tab-content>
+                <div class="platforms__item platform">
+                  <div class="platform__body">
+                    <div class="platform__info">
+                      <h3 class="platform__title">Exness MetaTrader 5</h3>
+                      <p class="platform__subtitle">
+                        <a href="" class="platform__subtitle-meta">
+                          <img src="img/platforms/mt5-icon.png" alt="mt5" />
+                        </a>
+                        MetaTrader 5 được thiết kế để cung cấp cho nhà giao dịch tiếp cận giao dịch ngoại hối, CFD, cổ
+                        phiếu và hợp đồng tương lai.
+                      </p>
+                      <p class="platform__desc">
+                        Hàng triệu nhà giao dịch sử dụng MT5 để đầu tư vào ngoại hối, giao dịch trực tuyến và giao dịch
+                        tùy chọn. Kết nối với máy chủ công ty môi giới, nhà giao dịch có thể nhận báo giá cho cổ phiếu
+                        và tiền tệ, thực hiện phân tích thị trường bằng biểu đồ và phân tích kỹ thuật, thực hiện giao
+                        dịch và xem lịch sử hoạt động giao dịch.
+                      </p>
+                    </div>
+                    <div class="platform__image">
+                      <img src="img/platforms/exness-mt5.jpg" alt="mt5 terminal" />
+                    </div>
+                  </div>
+                  <div class="platform__footer">
+                    <a href="https://one.exness-track.com/metatrader-5/a/37q68t4bi7/?campaign=14564&track1=main"
+                      class="platform__footer-btn btn btn-yellow btn-lg" rel="nofollow">Tải Exness MT5</a>
+                    <a href="https://one.exness-track.com/metatrader-5/a/37q68t4bi7/?campaign=14564&track1=main"
+                      class="platform__footer-btn btn btn-yellow-border btn-lg" rel="nofollow">Thêm về MetaTrader 5</a>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+      <section class="start">
+        <div class="start__container">
+          <h2 class="start__title title">
+            <span>Làm thế nào để bắt đầu giao dịch</span> với Exness
+          </h2>
+          <div class="start__steps">
+            <div class="start__step">
+              <div class="start__step-image">
+                <img src="img/start/start-1.png" alt="start" />
+              </div>
+              <div class="start__step-desc">
+                <div class="start__step-main">
+                  <div class="start__step-caption">Mở tài khoản</div>
+                  <div class="start__step-text">Nhấp vào nút bên dưới và làm theo quy trình thiết lập tài khoản dễ dàng
+                    của chúng tôi</div>
+                </div>
+                <a href="https://one.exness-track.com/boarding/sign-up/a/37q68t4bi7/?campaign=14564&track1=main"
+                  class="start__step-btn btn btn-white-border btn-lg btn-mw" rel="nofollow">Tài khoản Demo Exness</a>
+              </div>
+            </div>
+            <div class="start__step">
+              <div class="start__step-image">
+                <img src="img/start/start-2.png" alt="start" />
+              </div>
+              <div class="start__step-desc">
+                <div class="start__step-main">
+                  <div class="start__step-caption">Nạp tiền</div>
+                  <div class="start__step-text">Chuẩn bị để tận dụng cơ hội giao dịch tiếp theo</div>
+                </div>
+                <a href="https://one.exness-track.com/boarding/sign-up/a/37q68t4bi7/?campaign=14564&track1=main"
+                  class="start__step-btn btn btn-white-border btn-lg btn-mw" rel="nofollow">Ký quỹ tối thiểu Exness</a>
+              </div>
+            </div>
+            <div class="start__step">
+              <div class="start__step-image">
+                <img src="img/start/start-3.png" alt="start" />
+              </div>
+              <div class="start__step-desc">
+                <div class="start__step-main">
+                  <div class="start__step-caption">Bắt đầu giao dịch</div>
+                  <div class="start__step-text">Mở nền tảng giao dịch của bạn và thực hiện giao dịch đầu tiên với Exness
+                  </div>
+                </div>
+                <a href="https://one.exness-track.com/boarding/sign-up/a/37q68t4bi7/?campaign=14564&track1=main"
+                  class="start__step-btn btn btn-white-border btn-lg btn-mw" rel="nofollow">Tài khoản Thực Exness</a>
+              </div>
+            </div>
+          </div>
+          <div class="start__sign">
+            <a href="https://one.exness-track.com/boarding/sign-up/a/37q68t4bi7/?campaign=14564&track1=main"
+              class="start__sign-btn btn btn-yellow btn-xl">Đăng ký Exness</a>
+          </div>
+        </div>
+      </section>
+      <section class="exchange">
+        <div class="exchange__container">
+          <h2 class="exchange__title title">
+            <span>Exness Tài Khoản Thực</span> và Tài Khoản Demo
+          </h2>
+          <div class="exchange__body">
+            <div class="exchange__image">
+              <img src="img/exchange.png" alt="exchange" />
+            </div>
+            <div class="exchange__text">
+              Sự khác biệt chính giữa tài khoản demo và tài khoản thực là trên tài khoản thực, bạn sẽ giao dịch bằng
+              tiền thật, trong khi trên tài khoản demo, bạn sử dụng tiền ảo không có giá trị thực cho việc giao dịch.
+              Tuy nhiên, điều kiện thị trường của tài khoản demo hoàn toàn giống với tài khoản thực, do đó tài khoản
+              demo phù hợp để thực hành các chiến lược giao dịch. Exness chỉ cung cấp quyền truy cập vào tài khoản demo
+              khi đăng ký, không yêu cầu thanh toán hay nạp tiền. Khoản nạp tối thiểu chỉ được yêu cầu nếu bạn muốn
+              chuyển sang tài khoản tiền thật. Khi bạn đã sẵn sàng để thử nghiệm kỹ năng giao dịch thực tế, bạn có thể
+              mở một tài khoản cá nhân và chọn tùy chọn tài khoản thực.
+            </div>
+          </div>
+        </div>
+      </section>
+      <section class="types">
+        <div class="types__container">
+          <h2 class="types__title title">
+            <span>Các Loại</span> Tài Khoản Exness
+          </h2>
+          <div class="types__items">
+            <div class="types__item">
+              <div class="types__item-name">Standard</div>
+              <div class="types__item-desc">Dành cho mọi loại nhà giao dịch (tài khoản phổ biến nhất)</div>
+            </div>
+            <div class="types__item">
+              <div class="types__item-name">Raw Spread</div>
+              <div class="types__item-desc">Mức chênh lệch thấp nhất và hoa hồng thấp</div>
+            </div>
+            <div class="types__item">
+              <div class="types__item-name">Zero</div>
+              <div class="types__item-desc">Chênh lệch bằng không trong 95% ngày giao dịch trên 30 cặp</div>
+            </div>
+            <div class="types__item">
+              <div class="types__item-name">Pro</div>
+              <div class="types__item-desc">Nội dung tuyệt vời không có hoa hồng giao dịch</div>
+            </div>
+          </div>
+          <div class="types__footer footer-section">
+            <a href="https://one.exness-track.com/a/37q68t4bi7/?campaign=14564&track1=main" class="footer-section__link"
+              rel="nofollow">exness.com</a>
+            <a href="https://www.exness.com/standard-accounts/" class="footer-section__btn btn btn-white-border btn-xl"
+              rel="nofollow">Thêm về Các Loại Tài Khoản</a>
+          </div>
+        </div>
+      </section>
+      <section class="benefits">
+        <div class="benefits__container">
+          <h2 class="benefits__title title">
+            <span>Lợi ích của Nhà Môi</span> Giới Exness tại Việt Nam
+          </h2>
+          <div class="benefits__items">
+            <div class="benefits__item">
+              <div class="benefits__item-text">Rút tiền tức thì</div>
+              <div class="benefits__item-image">
+                <img src="img/benefits/01.png" class="cover-image" alt="benefit" />
+              </div>
+            </div>
+            <div class="benefits__item">
+              <div class="benefits__item-text">Phương thức thanh toán địa phương</div>
+              <div class="benefits__item-image">
+                <img src="img/benefits/02.png" class="cover-image" alt="benefit" />
+              </div>
+            </div>
+            <div class="benefits__item">
+              <div class="benefits__item-text">Hỗ trợ trực tiếp 24/7</div>
+              <div class="benefits__item-image">
+                <img src="img/benefits/03.png" class="cover-image" alt="benefit" />
+              </div>
+            </div>
+            <div class="benefits__item">
+              <div class="benefits__item-text">
+                Không tính lãi suất qua đêm cho dầu, vàng và nhiều hơn nữa
+              </div>
+              <div class="benefits__item-image">
+                <img src="img/benefits/04.png" class="cover-image" alt="benefit" />
+              </div>
+            </div>
+            <div class="benefits__item">
+              <div class="benefits__item-text">Chênh lệch ổn định, thấp</div>
+              <div class="benefits__item-image">
+                <img src="img/benefits/05.png" class="cover-image" alt="benefit" />
+              </div>
+            </div>
+            <div class="benefits__item">
+              <div class="benefits__item-text">Thực thi nhanh chóng và đáng tin cậy</div>
+              <div class="benefits__item-image">
+                <img src="img/benefits/06.png" class="cover-image" alt="benefit" />
+              </div>
+            </div>
+          </div>
+          <div class="benefits__register">
+            <a href="https://one.exness-track.com/boarding/sign-up/a/37q68t4bi7/?campaign=14564&track1=main"
+              class="benefits__register-btn btn btn-yellow btn-xl" rel="nofollow">Đăng ký Exness</a>
+          </div>
+        </div>
+      </section>
+      <section class="instruments">
+        <div class="instruments__container">
+          <h2 class="instruments__title title">
+            <span>Công cụ Giao dịch của</span> Exness Việt Nam
+          </h2>
+          <div class="instruments__items">
+            <div class="instruments__item">
+              <div class="instruments__item-icon">
+                <img src="img/instruments/01.png" alt="icon" />
+              </div>
+              <div class="instruments__item-caption">Ngoại hối</div>
+              <div class="instruments__item-desc">Giao dịch các cặp tiền tệ phổ biến nhất</div>
+              <a href="https://one.exness-track.com/forex/a/37q68t4bi7/?campaign=14564&track1=main"
+                class="instruments__item-btn btn btn-white-border btn-lg" rel="nofollow">Về Ngoại hối</a>
+            </div>
+            <div class="instruments__item">
+              <div class="instruments__item-icon">
+                <img src="img/instruments/02.png" alt="icon" />
+              </div>
+              <div class="instruments__item-caption">Kim loại</div>
+              <div class="instruments__item-desc">Vàng, Bạc, Bạch kim... <br>lựa chọn của bạn</div>
+              <a href="https://one.exness-track.com/metals/a/37q68t4bi7/?campaign=14564&track1=main"
+                class="instruments__item-btn btn btn-white-border btn-lg" rel="nofollow">Về Kim loại</a>
+            </div>
+            <div class="instruments__item">
+              <div class="instruments__item-icon">
+                <img src="img/instruments/03.png" alt="icon" />
+              </div>
+              <div class="instruments__item-caption">Tiền điện tử</div>
+              <div class="instruments__item-desc">Giao dịch tiền điện tử với chênh lệch thấp và ổn định</div>
+              <a href="https://one.exness-track.com/crypto/a/37q68t4bi7/?campaign=14564&track1=main"
+                class="instruments__item-btn btn btn-white-border btn-lg" rel="nofollow">Về Tiền điện tử</a>
+            </div>
+            <div class="instruments__item">
+              <div class="instruments__item-icon">
+                <img src="img/instruments/04.png" alt="icon" />
+              </div>
+              <div class="instruments__item-caption">Năng lượng</div>
+              <div class="instruments__item-desc">Dầu, khí tự nhiên, <br>xăng hay điện</div>
+              <a href="https://one.exness-track.com/energies/a/37q68t4bi7/?campaign=14564&track1=main"
+                class="instruments__item-btn btn btn-white-border btn-lg" rel="nofollow">Về Năng lượng</a>
+            </div>
+            <div class="instruments__item">
+              <div class="instruments__item-icon">
+                <img src="img/instruments/05.png" alt="icon" />
+              </div>
+              <div class="instruments__item-caption">Cổ phiếu</div>
+              <div class="instruments__item-desc">Thị trường chứng khoán ngay trong tầm tay bạn</div>
+              <a href="https://one.exness-track.com/stocks/a/37q68t4bi7/?campaign=14564&track1=main"
+                class="instruments__item-btn btn btn-white-border btn-lg" rel="nofollow">Về Cổ phiếu</a>
+            </div>
+            <div class="instruments__item">
+              <div class="instruments__item-icon">
+                <img src="img/instruments/06.png" alt="icon" />
+              </div>
+              <div class="instruments__item-caption">Chỉ số</div>
+              <div class="instruments__item-desc">Truy cập và giao dịch các chỉ số hàng đầu thế giới</div>
+              <a href="https://one.exness-track.com/indices/a/37q68t4bi7/?campaign=14564&track1=main"
+                class="instruments__item-btn btn btn-white-border btn-lg" rel="nofollow">Về Chỉ số</a>
+            </div>
+          </div>
+        </div>
+      </section>
+      <section class="news">
+        <div class="news__container">
+          <h2 class="news__title title">
+            <span>Truy cập Tin tức Thị trường</span> & Tín hiệu Giao dịch
+          </h2>
+          <div class="news__items">
+            <div class="news__item">
+              <div class="news__item-header">
+                <h3 class="news__item-caption">
+                  Rút tiền
+                  <br />
+                  tức thì
+                </h3>
+                <div class="news__item-logo">
+                  <img src="img/news/fxstreet.png" alt="fxstreet logo" />
+                </div>
+              </div>
+              <ul class="news__item-list">
+                <li>Xem các sự kiện kinh tế sắp tới</li>
+                <li>Lọc tin tức theo độ biến động & quốc gia</li>
+                <li>Theo dõi tin tức theo mức độ quan trọng</li>
+              </ul>
+              <div class="news__item-image">
+                <img src="img/news/economic-calendar.png" alt="calendar" />
+              </div>
+            </div>
+            <div class="news__item">
+              <div class="news__item-header">
+                <h3 class="news__item-caption">
+                  Phương thức thanh
+                  <br />
+                  toán địa phương
+                </h3>
+                <div class="news__item-logo">
+                  <img src="img/news/trading-central.svg" alt="central logo" />
+                </div>
+              </div>
+              <ul class="news__item-list">
+                <li>Tạo danh sách theo dõi của bạn</li>
+                <li>Theo dõi xu hướng và khung thời gian hiện tại</li>
+                <li>Nhận phân tích chi tiết</li>
+              </ul>
+              <div class="news__item-image">
+                <img src="img/news/trading-analytics.png" alt="analytics" />
+              </div>
+            </div>
+          </div>
+          <div class="news__footer footer-section">
+            <a href="https://one.exness-track.com/a/37q68t4bi7/?campaign=14564&track1=main"
+              class="footer-section__link">my.exness.com</a>
+            <a href="https://one.exness-track.com/deposits-and-withdrawals/a/37q68t4bi7/?campaign=14564&track1=main"
+              class="footer-section__btn btn btn-xl btn-white-border" rel="nofollow">Hệ thống Thanh toán Exness</a>
+          </div>
+        </div>
+      </section>
+      <section class="tools">
+        <div class="tools__container">
+          <h2 class="tools__title title">
+            <span>Tất cả công cụ bạn</span> cần khi giao dịch di động
+          </h2>
+          <div class="tools__items">
+            <div class="tools__item">
+              <div class="tools__item-content">
+                <div class="tools__item-text">Tổng quan & <br>lịch sử đơn hàng</div>
+                <div class="tools__item-image">
+                  <img src="img/tools/tools-1.png" alt="tools" />
+                </div>
+              </div>
+            </div>
+            <div class="tools__item">
+              <div class="tools__item-content">
+                <div class="tools__item-text">Tín hiệu thị trường <br>& tin tức</div>
+                <div class="tools__item-image">
+                  <img src="img/tools/tools-2.png" alt="tools" />
+                </div>
+              </div>
+            </div>
+            <div class="tools__item">
+              <div class="tools__item-content">
+                <div class="tools__item-text">Biểu đồ nâng cao</div>
+                <div class="tools__item-image">
+                  <img src="img/tools/tools-3.png" alt="tools" />
+                </div>
+              </div>
+            </div>
+            <div class="tools__item">
+              <div class="tools__item-content">
+                <div class="tools__item-text">
+                  Máy tính
+                  <br />
+                  thương nhân
+                </div>
+                <div class="tools__item-image">
+                  <img src="img/tools/tools-4.png" alt="tools" />
+                </div>
+              </div>
+            </div>
+            <div class="tools__item">
+              <div class="tools__item-content">
+                <div class="tools__item-text">Cảnh báo & <br>thông báo giá</div>
+                <div class="tools__item-image">
+                  <img src="img/tools/tools-5.png" alt="tools" />
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="tools__login">
+            <a href="https://one.exness-track.com/boarding/sign-up/a/37q68t4bi7/?campaign=14564&track1=main"
+              class="tools__login-btn btn btn-yellow btn-xl" rel="nofollow">Đăng nhập Exness</a>
+          </div>
+        </div>
+      </section>
+      <section class="why">
+        <div class="why__container">
+          <h2 class="why__title title">
+            <span>Tại sao chọn</span> Exness?
+          </h2>
+          <div class="why__items">
+            <div class="why__item why__item-lg">
+              <div class="why__item-image">
+                <img src="img/why/why-1.jpg" class="cover-image" alt="why" />
+              </div>
+              <div class="why__item-text">12 năm đạt chuẩn <br>môi giới đa tài sản</div>
+            </div>
+            <div class="why__item why__item-md">
+              <div class="why__item-image">
+                <img src="img/why/why-2.jpg" class="cover-image" alt="why" />
+              </div>
+              <div class="why__item-text">Hỗ trợ đa ngôn ngữ 24/7</div>
+            </div>
+            <div class="why__item">
+              <div class="why__item-image">
+                <img src="img/why/why-3.jpg" class="cover-image" alt="why" />
+              </div>
+              <div class="why__item-text">Các tùy chọn thanh toán địa phương và toàn cầu</div>
+            </div>
+            <div class="why__item">
+              <div class="why__item-image">
+                <img src="img/why/why-4.jpg" class="cover-image" alt="why" />
+              </div>
+              <div class="why__item-text">Nhiều giấy phép quản lý: FCA, CySEC, FSA, FSC</div>
+            </div>
+          </div>
+          <div class="why__rates">
+            <div class="why__rates-item">
+              <div class="why__rates-logo">
+                <img src="img/why/rate/google-play-icon.png" alt="google play" />
+              </div>
+              <div class="why__rates-content">
+                <img src="img/why/rate/google-play-rating.svg" alt="rating" />
+              </div>
+            </div>
+            <div class="why__rates-item">
+              <div class="why__rates-logo">
+                <img src="img/why/rate/apple-icon.png" alt="apple play" />
+              </div>
+              <div class="why__rates-content">
+                <img src="img/why/rate/apple-rating.svg" alt="rating" />
+              </div>
+            </div>
+            <div class="why__rates-item">
+              <div class="why__rates-logo">
+                <div class="why__rates-text">Đối tác đáng tin cậy</div>
+                <img src="img/why/rate/investing-logo.png" alt="investing play" />
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+      <section id="contacts" class="contacts">
+        <div class="contacts__container">
+          <h2 class="contacts__title title">
+            <span>Liên hệ Trung tâm</span> Gọi Exness
+          </h2>
+          <div class="contacts__items">
+            <div class="contacts__item">
+              <div class="contacts__item-flag">
+                <img src="img/contacts/01.png" class="cover-image" alt="flag Cyprus" />
+              </div>
+              <div class="contacts__item-content">
+                <div class="contacts__item-country">Síp</div>
+                <div class="contacts__item-address">1, Jalan Siafi, Porto Bello, Văn phòng 401 Limassol</div>
+              </div>
+            </div>
+            <div class="contacts__item">
+              <div class="contacts__item-flag">
+                <img src="img/contacts/02.png" class="cover-image" alt="flag Great Britain" />
+              </div>
+              <div class="contacts__item-content">
+                <div class="contacts__item-country">Vương quốc Anh</div>
+                <div class="contacts__item-address">107 London Generosity</div>
+              </div>
+            </div>
+            <div class="contacts__item">
+              <div class="contacts__item-flag">
+                <img src="img/contacts/03.png" class="cover-image" alt="flag Seychelles" />
+              </div>
+              <div class="contacts__item-content">
+                <div class="contacts__item-country">Seychelles</div>
+                <div class="contacts__item-address">CT 9A House, Providence Tầng 2, Mahe</div>
+              </div>
+            </div>
+            <div class="contacts__item">
+              <div class="contacts__item-flag">
+                <img src="img/contacts/04.png" class="cover-image" alt="flag South Africa" />
+              </div>
+              <div class="contacts__item-content">
+                <div class="contacts__item-country">Nam Phi</div>
+                <div class="contacts__item-address">Central Office Park, 257 Jean Avenue, Unit 4 Johannesburg</div>
+              </div>
+            </div>
+            <div class="contacts__item">
+              <div class="contacts__item-flag">
+                <img src="img/contacts/05.svg" class="cover-image" alt="flag Curaçao" />
+              </div>
+              <div class="contacts__item-content">
+                <div class="contacts__item-country">Curaçao</div>
+                <div class="contacts__item-address">Emancipatie Boulevard Dominico F. "Don" Martina 31</div>
+              </div>
+            </div>
+            <div class="contacts__item">
+              <div class="contacts__item-flag">
+                <img src="img/contacts/06.png" class="cover-image" alt="flag Cyprus" />
+              </div>
+              <div class="contacts__item-content">
+                <div class="contacts__item-country">Quần đảo Virgin thuộc Anh</div>
+                <div class="contacts__item-address">Trinity Chambers, P.O. Box 4301 City street, Tortola</div>
+              </div>
+            </div>
+          </div>
+          <div class="contacts__footer footer-section">
+            <a href="tel:+35725030959" class="footer-section__link"> +35725030959</a>
+            <a href="https://www.exness.com/contacts" class="footer-section__btn btn btn-xl btn-white-border"
+              rel="nofollow">Thêm về Thông tin Liên hệ</a>
+          </div>
+        </div>
+      </section>
+      <section class="legal">
+        <div class="legal__container">
+          <h2 class="legal__title title">
+            <span>Exness có hợp pháp</span> tại Việt Nam không?
+          </h2>
+          <div class="legal__items">
+            <div class="legal__item">
+              Exness ZA (PTY) Ltd được ủy quyền bởi Cơ quan Quản lý Ngành Tài chính (FSCA) tại Nam Phi như một Nhà cung
+              cấp Dịch vụ Tài chính (FSP số 51024). Exness ZA (PTY) Ltd hoạt động dưới trang web
+              <a href="https://one.exness-track.com/a/37q68t4bi7/?campaign=14564&track1=main" class="legal__item-link"
+                rel="nofollow">www.exness.com</a>.
+            </div>
+            <div class="legal__item">
+              Exness B.V. đã nhận chứng nhận từ Ngân hàng Trung ương Curaçao và Sint Maarten (CBCS) (số giấy phép
+              0003LSI). Exness B.V. hoạt động dưới
+              <a href="https://one.exness-track.com/a/37q68t4bi7/?campaign=14564&track1=main"
+                class="legal__item-link">www.exness.com</a>.
+            </div>
+            <div class="legal__item">
+              Exness (VG) Ltd đã được ủy quyền bởi Ủy ban Dịch vụ Tài chính (FSC) tại Quần đảo Virgin thuộc Anh (số giấy
+              phép SIBA/L/20/1133). Exness (VG) Ltd hoạt động dưới trang web
+              <a href="https://one.exness-track.com/a/37q68t4bi7/?campaign=14564&track1=main" class="legal__item-link"
+                rel="nofollow">www.exness.com</a>.
+            </div>
+            <div class="legal__item">
+              Exness (SC) Ltd đã được phê duyệt bởi Cơ quan Dịch vụ Tài chính (FSA) tại Seychelles (số giấy phép SD025).
+              Exness (SC) Ltd hoạt động thông qua trang web
+              <a href="https://one.exness-track.com/a/37q68t4bi7/?campaign=14564&track1=main" class="legal__item-link"
+                rel="nofollow">www.exness.com</a>.
+            </div>
+            <div class="legal__item">
+              Exness (UK) Ltd is authorized by the Financial Conduct Authority (FCA) in the UK (registration no.
+              730729). Exness (UK) Ltd operates under
+              <a href="https://one.exness-track.com/a/37q68t4bi7/?campaign=14564&track1=main" class="legal__item-link"
+                rel="nofollow">www.exness.eu</a>
+            </div>
+            <div class="legal__item">
+              Exness (UK) Ltd được ủy quyền bởi Cơ quan Hành vi Tài chính (FCA) tại Vương quốc Anh (số đăng ký 730729).
+              Exness (UK) Ltd hoạt động dưới trang web
+              <a href="https://one.exness-track.com/a/37q68t4bi7/?campaign=14564&track1=main" class="legal__item-link"
+                rel="nofollow">www.exness.uk</a>
+            </div>
+          </div>
+        </div>
+      </section>
+      <section class="mobile">
+        <div class="mobile__container">
+          <h2 class="mobile__title title">
+            <span>Ứng dụng di động Exness</span> để Giao dịch miễn phí
+          </h2>
+          <div class="mobile__stores">
+            <a href="https://one.exness-track.com/a/37q68t4bi7/?campaign=14564&platform=mobile&os=android&track1=main"
+              class="mobile__store">
+              <img src="img/google-play.png" alt="google play" />
+            </a>
+            <a href="https://one.exness-track.com/a/37q68t4bi7/?campaign=14564&platform=mobile&os=ios&track1=main"
+              class="mobile__store">
+              <img src="img/app-store.png" alt="app store" />
+            </a>
+          </div>
+          <div class="mobile__desc">
+            <div class="mobile__logo">
+              <img src="img/logo-mobile.svg" alt="logo" />
+            </div>
+            <div class="mobile__caption">Exness Việt Nam</div>
+            <div class="mobile__text">
+              Cảnh báo Rủi ro chung: CFD là sản phẩm có đòn bẩy. Giao dịch CFD mang mức độ rủi ro cao và có thể không
+              phù hợp với tất cả các nhà đầu tư. Giá trị đầu
+              tư có thể tăng và giảm, và nhà đầu tư có thể mất tất cả vốn đầu tư. Trong bất kỳ trường hợp nào, Công ty
+              cũng không chịu trách nhiệm đối với bất kỳ cá
+              nhân hay tổ chức nào về bất kỳ tổn thất hay thiệt hại nào, toàn bộ hay một phần, do hoặc có liên quan đến
+              bất kỳ giao dịch nào liên quan đến CFD.
+              <a href="https://www.exness.com/cdn/media/docs/risk_disclosure_and_warning_notice.pdf"
+                class="mobile__text-link" rel="nofollow">Tiết lộ rủi ro</a>
+            </div>
+          </div>
+        </div>
+      </section>
+    </main>
+    <footer class="footer">
+      <div class="footer__container">
+        <div class="footer__socials">
+          <a href="https://www.facebook.com/exness/" class="footer__social icon-facebook"></a>
+          <a href="https://twitter.com/exness" class="footer__social icon-twitter"></a>
+          <a href="https://www.instagram.com/exness/" class="footer__social icon-instagram"></a>
+          <a href="https://www.linkedin.com/company/exness/" class="footer__social icon-linkedin"></a>
+          <a href="https://www.youtube.com/user/EXNESSchannel" class="footer__social icon-youtube"></a>
+        </div>
+        <nav class="footer__menu">
+          <ul class="footer__menu-list">
+            <li class="footer__menu-item"><a
+                href="https://www.exness.com/cdn/media/docs/risk_disclosure_and_warning_notice.pdf"
+                class="footer__menu-link" rel="nofollow">Tiết lộ rủi ro</a></li>
+            <li class="footer__menu-item"><a
+                href="https://www.exness.com/cdn/media/docs/preventing_money_laundering.pdf" class="footer__menu-link"
+                rel="nofollow">Phòng ngừa Rửa tiền</a></li>
+            <li class="footer__menu-item"><a href="https://www.exness.com/cdn/media/docs/privacy_agreement.pdf"
+                class="footer__menu-link" rel="nofollow">Thỏa thuận Bảo mật</a></li>
+            <li class="footer__menu-item"><a href="https://get.exness.help" class="footer__menu-link"
+                rel="nofollow">Trung tâm Trợ giúp</a></li>
+          </ul>
+        </nav>
+        <div class="footer__copy">© 2023 Exness</div>
+      </div>
+    </footer>
+
+  </div>
+  <script src="https://cdn.jsdelivr.net/npm/swiper@9/swiper-bundle.min.js"></script>
+  <script src="js/app.min.js"></script>
+
+</body>
+
+</html>

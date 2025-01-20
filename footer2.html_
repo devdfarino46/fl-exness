@@ -1,0 +1,34 @@
+<section class="mobile">
+    <div class="mobile__container">
+        <h2 class="mobile__title title">
+            <span>Ứng dụng di động Exness</span> để Giao dịch miễn phí
+        </h2>
+        <div class="mobile__stores">
+            <a href="https://one.exness-track.com/a/37q68t4bi7/?campaign=14564&platform=mobile&os=android&track1=main"
+                class="mobile__store">
+                <img src="img/google-play.png" alt="google play" />
+            </a>
+            <a href="https://one.exness-track.com/a/37q68t4bi7/?campaign=14564&platform=mobile&os=ios&track1=main"
+                class="mobile__store">
+                <img src="img/app-store.png" alt="app store" />
+            </a>
+        </div>
+        <div class="mobile__desc">
+            <div class="mobile__logo">
+                <img src="img/logo-mobile.svg" alt="logo" />
+            </div>
+            <div class="mobile__caption">Exness Việt Nam</div>
+            <div class="mobile__text">
+                Cảnh báo Rủi ro chung: CFD là sản phẩm có đòn bẩy. Giao dịch CFD mang mức độ rủi ro cao và có thể không
+                phù hợp với tất cả các nhà đầu tư. Giá trị đầu
+                tư có thể tăng và giảm, và nhà đầu tư có thể mất tất cả vốn đầu tư. Trong bất kỳ trường hợp nào, Công ty
+                cũng không chịu trách nhiệm đối với bất kỳ cá
+                nhân hay tổ chức nào về bất kỳ tổn thất hay thiệt hại nào, toàn bộ hay một phần, do hoặc có liên quan
+                đến
+                bất kỳ giao dịch nào liên quan đến CFD.
+                <a href="https://www.exness.com/cdn/media/docs/risk_disclosure_and_warning_notice.pdf"
+                    class="mobile__text-link" rel="nofollow">Tiết lộ rủi ro</a>
+            </div>
+        </div>
+    </div>
+</section>
